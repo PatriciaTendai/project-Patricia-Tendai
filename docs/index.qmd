@@ -38,4 +38,5 @@ The goal is to analysis the WASH school facilities data in Malawi
 
 ```{r}
 read_xlsx(here::here('data/raw/JMP-WASH-in-schools-2022-data-by-country.xlsx'))
+
 ```
